@@ -67,6 +67,9 @@ body{
 
 
 }
+.title p{
+    color: #ffffff;
+}
 @keyframes flicker {
     0%, 100% {
       text-shadow: 0 0 10px #ff0077, 0 0 20px #ff0077, 0 0 30px #ff0077, 0 0 40px #d80032, 0 0 70px #d80032, 0 0 80px #d80032, 0 0 100px #d80032, 0 0 150px #d80032;
